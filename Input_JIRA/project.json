@@ -1,0 +1,32 @@
+{
+  "name": "Input_JIRA",
+  "description": "Blank Process",
+  "main": "Main.xaml",
+  "dependencies": {
+    "Log": "[1.0.7579.18520]",
+    "UiPath.Excel.Activities": "[2.5.1]",
+    "UiPath.Form.Activities": "[1.0.1]",
+    "UiPath.Mail.Activities": "[1.3.0]",
+    "UiPath.System.Activities": "[18.4.2]",
+    "UiPath.UIAutomation.Activities": "[18.4.5]",
+    "UiPathTeam.Interactive.Activities": "[1.0.6]"
+  },
+  "schemaVersion": "3.2",
+  "studioVersion": "18.4.6.0",
+  "projectVersion": "1.0.0.132",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ]
+  },
+  "libraryOptions": {
+    "includeOriginalXaml": false,
+    "privateWorkflows": []
+  },
+  "arguments": {
+    "input": [],
+    "output": []
+  }
+}
